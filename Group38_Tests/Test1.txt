@@ -1,0 +1,26 @@
+## Group 38
+
+## - Maryann Foley
+## - Caoilfhionn Doran
+
+## Valid: Yes
+
+## Description: Testing various locations of comments
+
+void main ( ) { 
+  //comment test
+  int g;
+  for(g=0; 5>7; g = 1;) 
+  {
+    printf("hey"); //end of line comment
+    //comment in for loop
+  }
+  //comment in proc
+}
+
+//comment outside of proc
+   
+struct structure {
+  // this is a comment in a struct
+  int j
+}
